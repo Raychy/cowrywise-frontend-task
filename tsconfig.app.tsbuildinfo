@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/interfaces/photo.ts","./src/interfaces/state.ts","./src/interfaces/user.ts","./src/stores/photostore.ts","./src/app.vue","./src/components/modal.vue","./src/components/photogallery.vue","./src/components/searchbar.vue","./src/components/skeletonloader.vue"],"version":"5.6.2"}

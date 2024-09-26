@@ -6,7 +6,7 @@ export interface Photo {
       small: string;
       regular: string;
     };
-    alt_description: string | null;
+    alt_description: string | undefined;
     user: User;
     color: string | null;
   }

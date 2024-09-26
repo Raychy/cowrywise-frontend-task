@@ -1,0 +1,6 @@
+body{
+    margin: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import PhotoGallery from "@/components/PhotoGallery.vue"
+import PhotoGallery from "./components/PhotoGallery.vue"
 
 </script>
 
